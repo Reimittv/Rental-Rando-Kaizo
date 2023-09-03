@@ -6,4 +6,4 @@ A Pokemon challenge in which you must beat the Pokemon Stadium 2 Gym Leader Cast
 | Rules | Explanation |
 | ------------- | ------------- |
 | Become the very best  | The challenge only ends when the player has defeated the entire Gym Leaders Castle Challenge (including Red)  |
-| Content Cell  | Content Cell  |
+| Randomize the Game  | The game must be ranzomized so that all moves, stat distributions, enemy teams and items are completely random on each attempt. |

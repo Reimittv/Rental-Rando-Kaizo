@@ -3,4 +3,7 @@ A Pokemon challenge in which you must beat the Pokemon Stadium 2 Gym Leader Cast
 
 
 
-wadawd
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |

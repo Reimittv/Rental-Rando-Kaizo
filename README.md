@@ -3,7 +3,7 @@ A Pokemon challenge in which you must beat the Pokemon Stadium 2 Gym Leader Cast
 
 
 
-| First Header  | Second Header |
+| Rules | Explanation |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| Become the very best  | The challenge only ends when the player has defeated the entire Gym Leaders Castle Challenge (including Red)  |
 | Content Cell  | Content Cell  |
